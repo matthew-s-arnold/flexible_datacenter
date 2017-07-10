@@ -1,0 +1,4 @@
+# Abstract - Flexible_datacenter
+
+Spending on cloud computing continues to rise and is not expected to flatten out until 2025. Cloud computing allows businesses to focus resources and capital on their core competencies. While small businesses are now financially able to gain access to enterprise level IT and large businesses can shut down entire data centers, medium sized businesses are faced with a challenge. The challenge is to maintain the data center while freeing up resources to use for cloud expansion. Medium sized businesses must change their data center strategy in order to be compatible with the cloud. This new strategy includes eliminating traditional SANs, blade servers, large tape libraries, and other systems that are heavily interdependent on each other. Eliminating these types of systems will free up financial resources and create a more agile data center.  
+
