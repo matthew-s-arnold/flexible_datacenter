@@ -93,3 +93,52 @@ IT departments have, and will continue, to produce operational efficiencies. Cos
 
 While continuing to gain efficiencies is important, it is not the same as strategy (Porter, 2011). As utilizing cloud resources represents a strategic change for the medium sized business, a strategic change must also be accompanied in the data center. This strategic shift is important for medium sized business as the current paradigm does not allow financial resources to be easily scaled down. IT managers cannot solely rely on increased efficiencies to pay for increased cloud resources. Managers must be willing to give up on what has made IT efficient in the past in order to make it more efficient in the future. This includes re-evaluating the SAN, blade servers, large tape libraries, pooling of common resources to a single instance, consolidation of management interfaces, and other systems that reduce financial flexibility. While financial and labor costs are always important when determining which system or technology to implement, consideration should be given to solutions that give future financial flexibilities, can be quickly scaled down, and give IT managers the opportunity to go with different options if needed.
 
+## References
+
+Amazon (2016a). Cloud Pricing Principles. Retrieved 5/7/2016 from https://aws.amazon.com/pricing/
+
+Amazon (2016b). Cloud Products. Retrieved 5/7/2016 from https://aws.amazon.com/products/
+
+Barr, J. (2015). AWS Storage Update – New Lower Cost S3 Storage Option & Glacier Price Reduction. AWS Blog. Retrieved from https://aws.amazon.com/blogs/aws/aws-storage-update-new-lower-cost-s3-storage-option-glacier-price-reduction/
+
+Branscombe, M. (2015). Why you don't need a SAN any more. ZDNet. Retrieved from http://www.zdnet.com/article/why-you-dont-need-a-san-any-more/
+
+Dell (2016). Dell PowerEdge Servers. Retrieved 4/20/2016 from http://www.dell.com/us/business/p/servers?~ck=anav
+
+Columbus, L. (2016). Roundup Of Cloud Computing Forecasts And Market Estimates, 2016. Forbes. Retrieved from http://www.forbes.com/sites/louiscolumbus/2016/03/13/roundup-of-cloud-computing-forecasts-and-market-estimates-2016/#1017026c74b0
+
+EMC (2016). EMC Isilon HD400 High Density Storage. Retrieved 4/20/2016 from https://store.emc.com/us/Product-Family/ISILON-PRODUCTS/EMC-Isilon-HD400-High-Density-Storage/p/EMC-Isilon-HD400
+
+Gantz, J. and Reinsel, D. (2012) The Digital Universe in 2020: Big Data, Bigger Digital Shadows, and Biggest Growth in the Far East, Framingham (Ma.): IDC.
+
+Garrison, G., Kim, S., & Wakefield, R. L. (2012). Success Factors for Deploying Cloud Computing. Communications Of The ACM, 55(9), 62-68. doi:10.1145/2330667.2330685
+
+Giret, L. (2016). Microsoft is catching up to Salesforce in fast growing Software as a Service market. WinBeta. Retrieved from http://www.winbeta.org/news/microsoft-catching-salesforce-fast-growing-software-service-market
+
+Gracely, B. (2016). Public Cloud IaaS is 3.5X the Size of True Private Cloud Adoption. Wikibon. Retrieved from http://wikibon.com/public-cloud-iaas-is-3-5x-the-size-of-true-private-cloud-adoption/
+
+Klein, A. (2013). Farming hard drives: 2 years and $1M later. Backblaze. Retrieved from https://www.backblaze.com/blog/farming-hard-drives-2-years-and-1m-later/
+
+Knorr, E. (2016). 2016: The year we see the real cloud leaders emerge. InfoWorld. Retrieved from http://www.infoworld.com/article/3018046/cloud-computing/2016-the-year-we-see-the-real-cloud-leaders-emerge.html
+
+Krazit, T. (2015). How GE is closing datacenters and moving to the public cloud. Structure. Retrieved from http://www.structureconf.com/how-ge-is-closing-datacenters-and-moving-to-the-public-cloud
+
+Kwon, J., & Johnson, M. E. (2013). Health-Care Security Strategies for Data Protection and Regulatory Compliance. Journal Of Management Information Systems, 30(2), 41-66. doi:10.2753/MIS0742-1222300202
+
+Lawton, C. (2006). Blade-Server Duel: IBM vs. H-P. The Wall Street Journal. Retrieved from http://www.wsj.com/articles/SB115093503703186991
+
+Liao, H. (2003). Storage Area Network Architectures: Technology White Paper. PMC-Sierra, Inc. Retrieved from http://pmcs.com/cgi-bin/document.pl?docnum=2022178
+
+Lowe, S. (2011). The pros and cons of tower, rack, and blade servers. TechRepublic. Retrieved from http://www.techrepublic.com/blog/the-enterprise-cloud/the-pros-and-cons-of-tower-rack-and-blade-servers/
+
+Microsoft (2013). Windows Server 2012 R2: Server Virtualization Technical Overview. Retrieved from http://download.microsoft.com/download/a/2/7/a27f60c3-5113-494a-9215-d02a8abcfd6b/windows_server_2012_r2_server_virtualization_white_paper.pdf
+
+Ponemon Institute (2012). The Human Factor in Data Protection. Retrieved from http://www.ponemon.org/local/upload/file/The_Human_Factor_in_data_Protection_WP_FINAL.pdf
+
+Porter, M. (2011). What is Strategy? HBR's 10 Must Reads on Strategy (pp. 1-37). Boston, Massachusetts: Harvard Business Review Press.
+
+Siemon Interconnect Solutions (2016). What is a SAN? Retrieved 4/20/2016 from https://www.siemon.com/sis/storage-area-networks/
+
+Symantec (2011). Your Backup Is Not an Archive. Retrieved from https://www.einstein.yu.edu/uploadedFiles/Research/research-computing/Backup_Archive_WP.pdf
+
+VMware (2016). VMware Virtual SAN 6.2. Retrieved from http://www.vmware.com/files/pdf/products/vsan/VMware_Virtual_SAN_Whats_New.pdf
